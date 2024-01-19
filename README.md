@@ -18,3 +18,13 @@ Each voter casts their vote by calling the addVote function, specifying the cand
 The owner can also check the selected candidate for each voter using the getVote function.
 
 6)Optional: Remove Vote: A voter can choose to remove their vote by calling the removeVote function. This action will decrement the vote count for the selected candidate.
+
+# Pictures
+
+![contract 2](https://github.com/am6403/Decentralized-Voting-System/assets/103773302/fb5685fa-f54c-4f9f-b68d-26f950854dd8)
+![contract 1](https://github.com/am6403/Decentralized-Voting-System/assets/103773302/fd16fa46-efab-40c2-8208-4bcad4dc6490)
+![code 3](https://github.com/am6403/Decentralized-Voting-System/assets/103773302/55781a21-746d-470e-91d8-a547d50e0f02)
+![code 2](https://github.com/am6403/Decentralized-Voting-System/assets/103773302/2c2b09b8-b923-429f-990d-6ac56968d5ae)
+![code 1](https://github.com/am6403/Decentralized-Voting-System/assets/103773302/a284ca46-572f-4c9d-aa0d-1ce192fd3780)
+
+
